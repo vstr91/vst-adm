@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Circular Admin</string>
+    <string name="menu_estados">Gerenciar Estados</string>
+    <string name="menu_locais">Gerenciar Locais</string>
+    <string name="menu_bairros">Gerenciar Bairros</string>
+    <string name="menu_paradas">Gerenciar Paradas</string>
+    <string name="menu_itinerarios">Gerenciar Itinerários</string>
+    <string name="menu_empresas">Gerenciar Empresas</string>
+    <string name="menu_mensagens">Gerenciar Mensagens</string>
+    <string name="menu_paises">Gerenciar Países</string>
+    <string name="titulo_topo_main">Versão Administrativa</string>
+</resources>
